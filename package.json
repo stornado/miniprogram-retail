@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "dayjs": "^1.9.3",
-    "tdesign-miniprogram": "^0.19.3",
+    "tdesign-miniprogram": "^0.28.0",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
